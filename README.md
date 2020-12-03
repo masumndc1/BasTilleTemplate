@@ -12,3 +12,6 @@ bastille template TARGET masumndc1/BasTilleTemplate/ssh
 
 ## Ansible
 bastille template TARGET masumndc1/BasTilleTemplate/ansible
+
+## Packages
+bastille template TARGET masumndc1/BasTilleTemplate/pkgs
