@@ -1,14 +1,14 @@
 # BasTilleTemplate
 Bastille container templates
 
-# Bootstrap
+## Bootstrap
 bastille bootstrap https://github.com/masumndc1/BasTilleTemplate
 
-# User
+## User
 bastille template TARGET masumndc1/BasTilleTemplate/user
 
-# SSH 
+## SSH 
 bastille template TARGET masumndc1/BasTilleTemplate/ssh
 
-# Ansible
+## Ansible
 bastille template TARGET masumndc1/BasTilleTemplate/ansible
